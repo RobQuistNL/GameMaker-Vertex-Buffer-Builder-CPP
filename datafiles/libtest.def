@@ -4,19 +4,5 @@ EXPORTS
     _Z13vertex_normalPcifff @3
     _Z15vertex_texcoordPciff @4
     _Z18vertex_position_3dPcifff @5
-    _Z5clampfdd @6
-    _Z9packFloatPvf @7
-    _Z9writeBytePcih @8
-    _Z9writeLongPcil @9
-    chunkSize @10 DATA
-    makebuffer @11
-    moist_octaves @12 DATA
-    moist_persistance @13 DATA
-    moist_scale @14 DATA
-    temp_octaves @15 DATA
-    temp_persistance @16 DATA
-    temp_scale @17 DATA
-    ter_octaves @18 DATA
-    ter_persistance @19 DATA
-    ter_scale @20 DATA
-    vertex_buffer @21
+    _Z9writeBytePcih @6
+    makebuffer @7
