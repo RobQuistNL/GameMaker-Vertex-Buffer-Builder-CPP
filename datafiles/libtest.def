@@ -1,12 +1,12 @@
 EXPORTS
     _Z10writeFloatPcif @1
-    _Z12vertex_colorPcii @2
+    _Z12vertex_colorPci5color @2
     _Z13vertex_normalPcifff @3
     _Z15vertex_texcoordPciff @4
-    _Z15vertex_trianglePcifffffffffffffffi @5
-    _Z18vertex_position_3dPcifff @6
-    _Z5clampfdd @7
-    _Z9packFloatPvf @8
+    _Z18vertex_position_3dPcifff @5
+    _Z5clampfdd @6
+    _Z9packFloatPvf @7
+    _Z9writeBytePcih @8
     _Z9writeLongPcil @9
     chunkSize @10 DATA
     makebuffer @11
